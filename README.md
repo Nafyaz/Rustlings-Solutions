@@ -11,7 +11,7 @@ Take help only after you solved a problem or got totally stuck.
 1. Quiz 2
 2. Error 3
 
-## Solved problems (60/94):
+## Solved problems (63/94):
 
 ### 00_intro
 - [x] intro1.rs
@@ -87,9 +87,9 @@ Take help only after you solved a problem or got totally stuck.
 ### 15_traits
 - [x] traits1.rs
 - [x] traits2.rs
-- [ ] traits3.rs
-- [ ] traits4.rs
-- [ ] traits5.rs
+- [x] traits3.rs
+- [x] traits4.rs
+- [x] traits5.rs
 ### 16_lifetimes
 - [ ] lifetimes1.rs
 - [ ] lifetimes2.rs
