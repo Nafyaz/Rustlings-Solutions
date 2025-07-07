@@ -11,7 +11,7 @@ Take help only after you solved a problem or got totally stuck.
 1. Quiz 2
 2. Error 3
 
-## Solved problems (63/94):
+## Solved problems (79/94):
 
 ### 00_intro
 - [x] intro1.rs
@@ -91,24 +91,24 @@ Take help only after you solved a problem or got totally stuck.
 - [x] traits4.rs
 - [x] traits5.rs
 ### 16_lifetimes
-- [ ] lifetimes1.rs
-- [ ] lifetimes2.rs
-- [ ] lifetimes3.rs
+- [x] lifetimes1.rs
+- [x] lifetimes2.rs
+- [x] lifetimes3.rs
 ### 17_tests
-- [ ] tests1.rs
-- [ ] tests2.rs
-- [ ] tests3.rs
+- [x] tests1.rs
+- [x] tests2.rs
+- [x] tests3.rs
 ### 18_iterators
-- [ ] iterators1.rs
-- [ ] iterators2.rs
-- [ ] iterators3.rs
-- [ ] iterators4.rs
-- [ ] iterators5.rs
+- [x] iterators1.rs
+- [x] iterators2.rs
+- [x] iterators3.rs
+- [x] iterators4.rs
+- [x] iterators5.rs
 ### 19_smart_pointers
-- [ ] arc1.rs
-- [ ] box1.rs
-- [ ] cow1.rs
-- [ ] rc1.rs
+- [x] arc1.rs
+- [x] box1.rs
+- [x] cow1.rs
+- [x] rc1.rs
 ### 20_threads
 - [ ] threads1.rs
 - [ ] threads2.rs
@@ -131,4 +131,4 @@ Take help only after you solved a problem or got totally stuck.
 ### quizzes
 - [x] quiz1.rs
 - [x] quiz2.rs
-- [ ] quiz3.rs
+- [x] quiz3.rs
